@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Digital Shakespear Workshop</title>
+    <link href="https://wendy-test.github.io/digitalshakespeare/feed.xml" rel="self" />
+    <link href="https://wendy-test.github.io/digitalshakespeare" />
+    <updated>1969-12-31T16:00:00-08:00</updated>
+    <author>
+        <name>WPK</name>
+    </author>
+    <id>https://wendy-test.github.io/digitalshakespeare</id>
+
+</feed>
